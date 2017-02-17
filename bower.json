@@ -1,0 +1,17 @@
+{
+  "name": "eqcss",
+  "main": "EQCSS.js",
+  "version": "1.5.0",
+  "homepage": "http://elementqueries.com",
+  "authors": [
+    "Tommy Hodgins & Maxime Euzière"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
